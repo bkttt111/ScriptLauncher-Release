@@ -1,15 +1,1 @@
-{
-  "scripts": [
-    {
-      "id": "cpu_boost",
-      "name": "CPU 性能模式",
-      "description": "空壳测试脚本，用于验证脚本市场下载和安装流程",
-      "author": "bkttt111",
-      "category": "测试",
-      "versionCode": 1,
-      "versionName": "1.0",
-      "url": "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/scripts/cpu_boost.sh",
-      "sha256": "a92029f24769822a42769cee3d8e4f8c7dbff5471ffea9a0ade35c732df1e7d3"
-    }
-  ]
-}
+{"scripts":[]}
