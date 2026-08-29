@@ -1,0 +1,65 @@
+{
+    "categories":  [
+                       {
+                           "id":  "c-11a8d8a0",
+                           "name":  "游戏脚本",
+                           "scripts":  [
+                                           {
+                                               "id":  "s-2c2b86bf",
+                                               "name":  "葫芦娃和平公益内核.sh",
+                                               "description":  "游戏脚本",
+                                               "author":  "bkttt111",
+                                               "category":  "游戏脚本",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/game/c-11a8d8a0/s-2c2b86bf.sh",
+                                               "sha256":  "25e8ea51909702038a1d2950dfebf4f2d19d11ce9821c7e8dc1b527c1c2dc4e7"
+                                           },
+                                           {
+                                               "id":  "s-ecd5df62",
+                                               "name":  "猪妞和平内核.sh",
+                                               "description":  "游戏脚本",
+                                               "author":  "bkttt111",
+                                               "category":  "游戏脚本",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/game/c-11a8d8a0/s-ecd5df62.sh",
+                                               "sha256":  "abc30c6fb10a67bccaecd7ce7b0726960003a1ac133c8a054374101b1a957824"
+                                           },
+                                           {
+                                               "id":  "s-91c19d5a",
+                                               "name":  "enen启动器v6.sh",
+                                               "description":  "游戏脚本",
+                                               "author":  "bkttt111",
+                                               "category":  "游戏脚本",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/game/c-11a8d8a0/s-91c19d5a.sh",
+                                               "sha256":  "488707598268aded99c97975ecff9aa8a4de24ec6cbd66cfa658309c4c2ea5d7"
+                                           },
+                                           {
+                                               "id":  "s-11e058d5",
+                                               "name":  "NBG-DFM.sh",
+                                               "description":  "游戏脚本",
+                                               "author":  "bkttt111",
+                                               "category":  "游戏脚本",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/game/c-11a8d8a0/s-11e058d5.sh",
+                                               "sha256":  "51f768eeddbf8927c3df6eec378761cc75bcdd93c56af7db3a884431d68787ef"
+                                           },
+                                           {
+                                               "id":  "s-b543bc3d",
+                                               "name":  "enen启动器v1.2.sh",
+                                               "description":  "游戏脚本",
+                                               "author":  "bkttt111",
+                                               "category":  "游戏脚本",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/game/c-11a8d8a0/s-b543bc3d.sh",
+                                               "sha256":  "d8c14da32cd250531e2b97b7bba4918c3c6c8efc6a91ee7e74352261b041e7b7"
+                                           }
+                                       ]
+                       }
+                   ]
+}

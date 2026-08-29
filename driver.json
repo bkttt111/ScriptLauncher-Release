@@ -1,0 +1,1942 @@
+{
+    "categories":  [
+                       {
+                           "id":  "c-6de9deda",
+                           "name":  "A1 林羽驱动",
+                           "scripts":  [
+                                           {
+                                               "id":  "s-7ee93479",
+                                               "name":  "林羽过电报验证.sh",
+                                               "description":  "A1 林羽驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "A1 林羽驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-6de9deda/s-7ee93479.sh",
+                                               "sha256":  "58ef8919c22e08575a61a28d4c815139165d1f8e1648cff4dd450a7d6627534f"
+                                           },
+                                           {
+                                               "id":  "s-5bc781e6",
+                                               "name":  "LinYuDriverLoader.Ver6.0.sh",
+                                               "description":  "A1 林羽驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "A1 林羽驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-6de9deda/s-5bc781e6.sh",
+                                               "sha256":  "1710104f29fc9d2ba991cf7e20ace7bf7cd08e1977fb084b866704a945e172a3"
+                                           }
+                                       ]
+                       },
+                       {
+                           "id":  "c-ebf067a3",
+                           "name":  "A2 橘子驱动",
+                           "scripts":  [
+                                           {
+                                               "id":  "s-071e22c2",
+                                               "name":  "橘子引擎驱动下载V1.0.6.sh",
+                                               "description":  "A2 橘子驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "A2 橘子驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-ebf067a3/s-071e22c2.sh",
+                                               "sha256":  "72ad8b3aa4652aedb4f5eb7f2d6e50b7784faf439804149794fa95c93240285f"
+                                           },
+                                           {
+                                               "id":  "s-a7abed3f",
+                                               "name":  "跳转戈江南频道.sh",
+                                               "description":  "A2 橘子驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "A2 橘子驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-ebf067a3/s-a7abed3f.sh",
+                                               "sha256":  "b00edcf67429ff4fc6339d7fc0ed543c121f0d4e901bec50cabfd655e9541982"
+                                           }
+                                       ]
+                       },
+                       {
+                           "id":  "c-a8a6301f",
+                           "name":  "A3 ZERO驱动",
+                           "scripts":  [
+                                           {
+                                               "id":  "s-7a5ea08d",
+                                               "name":  "ZERO Driver 5.6.sh",
+                                               "description":  "A3 ZERO驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "A3 ZERO驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a8a6301f/s-7a5ea08d.sh",
+                                               "sha256":  "eee6b7dc59751d18c713f9e97e275918a05e38f59e7f522ec273ecfb089bb628"
+                                           },
+                                           {
+                                               "id":  "s-27c00865",
+                                               "name":  "过频道验证.sh",
+                                               "description":  "A3 ZERO驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "A3 ZERO驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a8a6301f/s-27c00865.sh",
+                                               "sha256":  "e8c1973fb71226a2057e40a22b0fd2e7ef9b70889bf1ca5f943e246e845dd0b1"
+                                           }
+                                       ]
+                       },
+                       {
+                           "id":  "c-81303c55",
+                           "name":  "A4 时间驱动",
+                           "scripts":  [
+                                           {
+                                               "id":  "s-c4a1955f",
+                                               "name":  "时间驱动Kairos_Driver_Loader_Release_856fd12.sh",
+                                               "description":  "A4 时间驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "A4 时间驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-81303c55/s-c4a1955f.sh",
+                                               "sha256":  "9f46c2cfd1e6bc919f4e6741517d850c4652722f4d49fbc57d2c6b35d16012f8"
+                                           }
+                                       ]
+                       },
+                       {
+                           "id":  "c-a5065ca6",
+                           "name":  "B1 TWT驱动",
+                           "scripts":  [
+                                           {
+                                               "id":  "s-4dfac914",
+                                               "name":  "TwTLoaderv1.49.sh",
+                                               "description":  "B1 TWT驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B1 TWT驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a5065ca6/s-4dfac914.sh",
+                                               "sha256":  "371ff775d372f8d33ea13a2d18bce1cc0307fca9fcc291e16d3d4bd4d2060e25"
+                                           },
+                                           {
+                                               "id":  "s-77243766",
+                                               "name":  "TwT驱动过验证.sh",
+                                               "description":  "B1 TWT驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B1 TWT驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a5065ca6/s-77243766.sh",
+                                               "sha256":  "370b25217abff4d3d38503eba9b14c7c144fb284a806467ababff0fd26045f06"
+                                           }
+                                       ]
+                       },
+                       {
+                           "id":  "c-ff2a44bd",
+                           "name":  "B2 Paradise驱动",
+                           "scripts":  [
+                                           {
+                                               "id":  "s-60f5d00e",
+                                               "name":  "5.10.ko.sh",
+                                               "description":  "B2 Paradise驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B2 Paradise驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-ff2a44bd/s-60f5d00e.sh",
+                                               "sha256":  "1c487184a092b0fb2110f2662db031874e605059d04661996657fc69edbf1cc5"
+                                           },
+                                           {
+                                               "id":  "s-434c222c",
+                                               "name":  "5.15.ko.sh",
+                                               "description":  "B2 Paradise驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B2 Paradise驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-ff2a44bd/s-434c222c.sh",
+                                               "sha256":  "90454e4000100c34e9c70b8222d69480e5b39109a5a23e432bda6c89f69e3250"
+                                           },
+                                           {
+                                               "id":  "s-e3c4cb82",
+                                               "name":  "6.1.ko.sh",
+                                               "description":  "B2 Paradise驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B2 Paradise驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-ff2a44bd/s-e3c4cb82.sh",
+                                               "sha256":  "f728ee777fdce910986f9255b9e3b4f2b25c0fcbda2b9d12d92fd9e15dd51c3e"
+                                           },
+                                           {
+                                               "id":  "s-7e2d2da9",
+                                               "name":  "6.12.ko.sh",
+                                               "description":  "B2 Paradise驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B2 Paradise驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-ff2a44bd/s-7e2d2da9.sh",
+                                               "sha256":  "65de95fc71522b9eb48daa04eef15ce5a9a6bd3f66797a25524b1520f9214fb6"
+                                           },
+                                           {
+                                               "id":  "s-3839d5a5",
+                                               "name":  "6.6.ko.sh",
+                                               "description":  "B2 Paradise驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B2 Paradise驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-ff2a44bd/s-3839d5a5.sh",
+                                               "sha256":  "8963858ee266cd64a905210287089323617ff4f3c3415a898285c5a0936965f5"
+                                           }
+                                       ]
+                       },
+                       {
+                           "id":  "c-73fbac93",
+                           "name":  "B3 光头强驱动",
+                           "scripts":  [
+                                           {
+                                               "id":  "s-3afbeda5",
+                                               "name":  "4.14.141.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-3afbeda5.sh",
+                                               "sha256":  "b97509c934c81d0c5a5d29af4711d72fba5c5eebefcfc063331125c9e244e3c8"
+                                           },
+                                           {
+                                               "id":  "s-be90658f",
+                                               "name":  "4.14.117.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-be90658f.sh",
+                                               "sha256":  "286a4a0a533f623dd926da18d43446a52f135732002924414ba008a0a12744a4"
+                                           },
+                                           {
+                                               "id":  "s-778aca4e",
+                                               "name":  "4.14.180.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-778aca4e.sh",
+                                               "sha256":  "1a82a6ba3029c2e2ca842c2743d3cf01043ba3f15b70ae8b1581e785bbdf6dc5"
+                                           },
+                                           {
+                                               "id":  "s-0eed56a2",
+                                               "name":  "4.14.186.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-0eed56a2.sh",
+                                               "sha256":  "fa8068a818ccf80545ffbbdfb292b4049719b81b84c31f27078b7c7f707290c7"
+                                           },
+                                           {
+                                               "id":  "s-c49c38a4",
+                                               "name":  "4.14.186b.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-c49c38a4.sh",
+                                               "sha256":  "c25da7ba3d362c5a0aead544e19cde81ef72360c85db51a0cc6dd60c8865ab1c"
+                                           },
+                                           {
+                                               "id":  "s-a8e1813e",
+                                               "name":  "4.14.186c.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-a8e1813e.sh",
+                                               "sha256":  "2824e75500e0b2223aaf0ac072a57e3531776f36219c3d6501bec737ad435e42"
+                                           },
+                                           {
+                                               "id":  "s-7eb750c0",
+                                               "name":  "4.19.113.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-7eb750c0.sh",
+                                               "sha256":  "d5e24b75fb182eee6c6880f2e49e4453399128d361c58e3321daeeb5becaed88"
+                                           },
+                                           {
+                                               "id":  "s-acb3b66a",
+                                               "name":  "4.19.157.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-acb3b66a.sh",
+                                               "sha256":  "cd1f8c6bc5c3dd92bafc35364d29fc17ae7cf9ccc647c12d7522c431d59f8743"
+                                           },
+                                           {
+                                               "id":  "s-6c4488c9",
+                                               "name":  "4.19.157b.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-6c4488c9.sh",
+                                               "sha256":  "dc96465daa243fa8b73c00b8cf9676dc70710d8dcf46784e7e1fb26a07ea81d9"
+                                           },
+                                           {
+                                               "id":  "s-f827587a",
+                                               "name":  "4.19.157c.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-f827587a.sh",
+                                               "sha256":  "970bd6d9412413f932dac22e3a4086ecc76ce496b2907b407abf3a955dba783e"
+                                           },
+                                           {
+                                               "id":  "s-a4137d9b",
+                                               "name":  "4.19.191.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-a4137d9b.sh",
+                                               "sha256":  "0081eadd7bc59f1cee6647a11d48d2db67d784bbe87a1744056aa7eae914820d"
+                                           },
+                                           {
+                                               "id":  "s-2bb560c1",
+                                               "name":  "4.19.191b.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-2bb560c1.sh",
+                                               "sha256":  "34617364a1e22670ebb77af741cbfef355d3b224cf99e3d1a12c5468fdadd411"
+                                           },
+                                           {
+                                               "id":  "s-37cd61bf",
+                                               "name":  "4.19.191c.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-37cd61bf.sh",
+                                               "sha256":  "6a5fa01f202c8479a3bac7463e71d80bf729c4e0a79d6b24b9fdf4b63905d870"
+                                           },
+                                           {
+                                               "id":  "s-d50aafd9",
+                                               "name":  "4.19.81.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-d50aafd9.sh",
+                                               "sha256":  "f1d9e7766180bd7612744e82f319d0b44422653c4afee314ab7894b176b54f6b"
+                                           },
+                                           {
+                                               "id":  "s-079d0f92",
+                                               "name":  "5.10.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-079d0f92.sh",
+                                               "sha256":  "465586e4adf60559a8b0ba3eaab9dfbbdb532a1f5c2db3d94b9f4dfccccf3bde"
+                                           },
+                                           {
+                                               "id":  "s-adf24e19",
+                                               "name":  "5.15.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-adf24e19.sh",
+                                               "sha256":  "bd84f6daa11ab2123dbdebb410195e27b3fe23073f74a3bccecfd50f4a220b83"
+                                           },
+                                           {
+                                               "id":  "s-aaf744f8",
+                                               "name":  "5.4.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-aaf744f8.sh",
+                                               "sha256":  "52ad067148ef2ec119561785075f7f1cf475a379c1757afcd341fe8d4b1d9459"
+                                           },
+                                           {
+                                               "id":  "s-7d6e83ba",
+                                               "name":  "5.4b.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-7d6e83ba.sh",
+                                               "sha256":  "a8f73a729c24b510b73fadd4aa23134478e15625ce23aed7f63d2f8f7e32bad1"
+                                           },
+                                           {
+                                               "id":  "s-5cd97898",
+                                               "name":  "5.4c.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-5cd97898.sh",
+                                               "sha256":  "917a7023207615a9603fe33f4a6efaa948976e632fb2d05f57105241c7acdf91"
+                                           },
+                                           {
+                                               "id":  "s-064b4bd8",
+                                               "name":  "6.1.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-064b4bd8.sh",
+                                               "sha256":  "93d7da20a4a2d45b914fb67f9bcfad6c92ba1c5e064e89a32d85c1fc00f5bb78"
+                                           },
+                                           {
+                                               "id":  "s-fb8dadb7",
+                                               "name":  "6.12.23.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-fb8dadb7.sh",
+                                               "sha256":  "b03f2771df70f11658c3465f71be6a9fbde8d48a5102fca5fd510f551349d763"
+                                           },
+                                           {
+                                               "id":  "s-bc416530",
+                                               "name":  "6.12.58.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-bc416530.sh",
+                                               "sha256":  "a89e0a479612ebba2c4b6d2e3c65f6950723ca7a865bd952b58a7adaee2c0d9e"
+                                           },
+                                           {
+                                               "id":  "s-ab6bfd3c",
+                                               "name":  "6.6.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-ab6bfd3c.sh",
+                                               "sha256":  "f7469708f6f70323a8978ccdaee46ed92b48da3dc25bce1fc06a5822666df262"
+                                           },
+                                           {
+                                               "id":  "s-978e2286",
+                                               "name":  "光头强驱动v1.0.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-978e2286.sh",
+                                               "sha256":  "5f11c6200e6ed5a7adf4219a664860356e92699f3838bb90087a38b1f345ebd6"
+                                           },
+                                           {
+                                               "id":  "s-5746d58a",
+                                               "name":  "过电报验证.sh",
+                                               "description":  "B3 光头强驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "B3 光头强驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-73fbac93/s-5746d58a.sh",
+                                               "sha256":  "771cb08f1b34b666fc3bcf732f90918b157868b8aab55aa3db56b5a4c8095d73"
+                                           }
+                                       ]
+                       },
+                       {
+                           "id":  "c-dcad72e9",
+                           "name":  "C1 SR驱动",
+                           "scripts":  [
+                                           {
+                                               "id":  "s-421bf6d1",
+                                               "name":  "SR_driverV0.2.sh",
+                                               "description":  "C1 SR驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "C1 SR驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dcad72e9/s-421bf6d1.sh",
+                                               "sha256":  "1f0ca32316898ee5f088c2c38418913b974e06f368291903fbdb6bbf5ad4ca5a"
+                                           }
+                                       ]
+                       },
+                       {
+                           "id":  "c-7b113a5a",
+                           "name":  "C2 GT驱动",
+                           "scripts":  [
+                                           {
+                                               "id":  "s-07c53fe3",
+                                               "name":  "GTv1.1.sh",
+                                               "description":  "C2 GT驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "C2 GT驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-7b113a5a/s-07c53fe3.sh",
+                                               "sha256":  "56bf5326dd88e844458289c2d919604eb84ca77aa8a2db15892e56a93df02f1b"
+                                           },
+                                           {
+                                               "id":  "s-5567ad93",
+                                               "name":  "执行我过频道验证.sh",
+                                               "description":  "C2 GT驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "C2 GT驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-7b113a5a/s-5567ad93.sh",
+                                               "sha256":  "fc4b9ff7c09493c103c47776426329fc79082ac309a2ad76897770e7b3d42f7e"
+                                           }
+                                       ]
+                       },
+                       {
+                           "id":  "c-7a26df1f",
+                           "name":  "C4 RT-dev驱动",
+                           "scripts":  [
+                                           {
+                                               "id":  "s-e6d46a01",
+                                               "name":  "5.10.sh",
+                                               "description":  "C4 RT-dev驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "C4 RT-dev驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-7a26df1f/s-e6d46a01.sh",
+                                               "sha256":  "1f38266b6e7177939ae01c538d73446e0036e93744babc3d23bfd2b9ad19f2f3"
+                                           },
+                                           {
+                                               "id":  "s-9f0796bf",
+                                               "name":  "5.15.sh",
+                                               "description":  "C4 RT-dev驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "C4 RT-dev驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-7a26df1f/s-9f0796bf.sh",
+                                               "sha256":  "dab5bd9aaf4f686004772a95b014b68db1796429ae45a4967c58ca81c54e6386"
+                                           },
+                                           {
+                                               "id":  "s-e31ead05",
+                                               "name":  "5.4.sh",
+                                               "description":  "C4 RT-dev驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "C4 RT-dev驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-7a26df1f/s-e31ead05.sh",
+                                               "sha256":  "f87521696c33c9339ddb210eafdbb42d0f5ec9bbcca1bd7b2b70868de853c395"
+                                           },
+                                           {
+                                               "id":  "s-8f8ca63c",
+                                               "name":  "5.4b.sh",
+                                               "description":  "C4 RT-dev驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "C4 RT-dev驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-7a26df1f/s-8f8ca63c.sh",
+                                               "sha256":  "569aebc3a28e9a043158c30ef689be6a62fd80326db98b29586620924393b482"
+                                           },
+                                           {
+                                               "id":  "s-674a4187",
+                                               "name":  "5.4c.sh",
+                                               "description":  "C4 RT-dev驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "C4 RT-dev驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-7a26df1f/s-674a4187.sh",
+                                               "sha256":  "0791f212cf6095c5935eb921353125ad8824a3ecd9bc1f819b50441e3344a47e"
+                                           },
+                                           {
+                                               "id":  "s-c6e46a90",
+                                               "name":  "6.1.sh",
+                                               "description":  "C4 RT-dev驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "C4 RT-dev驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-7a26df1f/s-c6e46a90.sh",
+                                               "sha256":  "184c4a3361b44bbaf35f5f40f1180fe36f025c0dff77aac58151a0b4c109d639"
+                                           },
+                                           {
+                                               "id":  "s-e7b8c187",
+                                               "name":  "6.12.sh",
+                                               "description":  "C4 RT-dev驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "C4 RT-dev驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-7a26df1f/s-e7b8c187.sh",
+                                               "sha256":  "9bf0e0c0b92ccabb5dba63569ef15e33c70af88dfb6fb5ae817b051b628157c6"
+                                           },
+                                           {
+                                               "id":  "s-24ba75a2",
+                                               "name":  "6.6.sh",
+                                               "description":  "C4 RT-dev驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "C4 RT-dev驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-7a26df1f/s-24ba75a2.sh",
+                                               "sha256":  "709bd033ef1eab991a60e17eb7f94dc77a3bd6ecf783416a353c20f5b7381aff"
+                                           },
+                                           {
+                                               "id":  "s-80b63175",
+                                               "name":  "执行我过频道验证.sh",
+                                               "description":  "C4 RT-dev驱动",
+                                               "author":  "bkttt111",
+                                               "category":  "C4 RT-dev驱动",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-7a26df1f/s-80b63175.sh",
+                                               "sha256":  "febca4a76ab84051f11f34954513ce2dbd872ffc578a174fdd50f49011cee23c"
+                                           }
+                                       ]
+                       },
+                       {
+                           "id":  "c-f84ec0a1",
+                           "name":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                           "scripts":  [
+                                           {
+                                               "id":  "s-ceafcd8e",
+                                               "name":  "4.14.141.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-ceafcd8e.sh",
+                                               "sha256":  "cee18cce8b324786f727ca174b17b9b2afad4a1417d4a8f5cc791dc387d472de"
+                                           },
+                                           {
+                                               "id":  "s-b3c70446",
+                                               "name":  "4.14.186.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-b3c70446.sh",
+                                               "sha256":  "d249e356c3509b08a2eef485634dcae9002736f46915d6eccce03b91d050aea5"
+                                           },
+                                           {
+                                               "id":  "s-370753fd",
+                                               "name":  "4.14.186b.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-370753fd.sh",
+                                               "sha256":  "4413acd19afb9030a4eab1774d0bf3e3f30ac121f48b04375578a6e8069d7b9e"
+                                           },
+                                           {
+                                               "id":  "s-4c3b53e4",
+                                               "name":  "4.14.186c.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-4c3b53e4.sh",
+                                               "sha256":  "c7505527895be2e586a81a5b3520237b8f1e457130df80c9306f2ca0c21d46be"
+                                           },
+                                           {
+                                               "id":  "s-26c5a15b",
+                                               "name":  "4.19.113.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-26c5a15b.sh",
+                                               "sha256":  "7f6a7e8295c300b965101e72f52a5aec812b684eecdebbef61efc6903e8c7ebc"
+                                           },
+                                           {
+                                               "id":  "s-1dfd71bc",
+                                               "name":  "4.19.157.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-1dfd71bc.sh",
+                                               "sha256":  "4b242610707b55ffbcd61ffd19cc5121328be7ec4cf5ae3daaafccbf600196b8"
+                                           },
+                                           {
+                                               "id":  "s-cbd3c9dd",
+                                               "name":  "4.19.157b.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-cbd3c9dd.sh",
+                                               "sha256":  "19ac4ad5aef43f8e49f4a0d53d83508b95f2c4c3e9bff57c9eb16e92c63b3026"
+                                           },
+                                           {
+                                               "id":  "s-efe07ca5",
+                                               "name":  "4.19.157c.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-efe07ca5.sh",
+                                               "sha256":  "1b09a9c073bae4c1bf3c75d4837de18389ed65880924d57cc96eabc441c2e1d9"
+                                           },
+                                           {
+                                               "id":  "s-b6b9fcde",
+                                               "name":  "4.19.191.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-b6b9fcde.sh",
+                                               "sha256":  "351a6669c5e40d90740803b325bad479902a0def7656c2cea8f90e690055454d"
+                                           },
+                                           {
+                                               "id":  "s-e3dd4645",
+                                               "name":  "4.19.191c.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-e3dd4645.sh",
+                                               "sha256":  "abc1fafb6117547efc3b6e6232ba52a91aee2ab3406b25f9b6c5596e725fa8f8"
+                                           },
+                                           {
+                                               "id":  "s-0590ca51",
+                                               "name":  "4.19.191b.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-0590ca51.sh",
+                                               "sha256":  "dcfc731a9be88b3170c83b0630d7dfd13a675e248b62b1362e928824e248395a"
+                                           },
+                                           {
+                                               "id":  "s-7dd82f00",
+                                               "name":  "4.19.81.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-7dd82f00.sh",
+                                               "sha256":  "f46405e2000afb16332ecd5ca21d67224b16ca0d1fd76460c486ef3f7b00195e"
+                                           },
+                                           {
+                                               "id":  "s-63e924d6",
+                                               "name":  "5.15.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-63e924d6.sh",
+                                               "sha256":  "9e9b2621d51c2c0fff4e0342b8309f2dbaed6071afd5c1558f82db54618ee2ab"
+                                           },
+                                           {
+                                               "id":  "s-45287f54",
+                                               "name":  "5.10.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-45287f54.sh",
+                                               "sha256":  "85686644f64720161a0a28b048ef44c0ec393916327384632c82d989bb5db096"
+                                           },
+                                           {
+                                               "id":  "s-b1f1cefc",
+                                               "name":  "5.4.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-b1f1cefc.sh",
+                                               "sha256":  "6ccddf2ce95b99ecf071f8c57d6c194049326feb46ad5b600300dfd6bf7ef48c"
+                                           },
+                                           {
+                                               "id":  "s-6c930527",
+                                               "name":  "5.4b.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-6c930527.sh",
+                                               "sha256":  "b8fdbc9a863939cb4254f3a83f3716986a314325a111fe2d7b8b52238a215f4a"
+                                           },
+                                           {
+                                               "id":  "s-08fbfadb",
+                                               "name":  "5.4c.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-08fbfadb.sh",
+                                               "sha256":  "6006df1579f5305f799973111b9e002110178b6186060d9334221f1969cd35f0"
+                                           },
+                                           {
+                                               "id":  "s-559b5a50",
+                                               "name":  "6.1.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-559b5a50.sh",
+                                               "sha256":  "d514a570993d97e723e51973a3eaec641857d4c6c5d983670347528a4361259a"
+                                           },
+                                           {
+                                               "id":  "s-4aebf915",
+                                               "name":  "6.12.23.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-4aebf915.sh",
+                                               "sha256":  "5bc2d50a6be30c6ded36323a111e56946373cbfa2c825c51445e3dcb7c476e87"
+                                           },
+                                           {
+                                               "id":  "s-a09966bc",
+                                               "name":  "6.12.58.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-a09966bc.sh",
+                                               "sha256":  "5432d218d9185c738e7d03c2b3d31138919830fb8faa3e1ed4871d2bd3ac7299"
+                                           },
+                                           {
+                                               "id":  "s-24263f52",
+                                               "name":  "6.6.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-24263f52.sh",
+                                               "sha256":  "799276830c419c1360e9ee2beb6667a6ed24d214755a9864634ef0304530050a"
+                                           },
+                                           {
+                                               "id":  "s-624f3134",
+                                               "name":  "执行我过频道验证.sh",
+                                               "description":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写无缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-f84ec0a1/s-624f3134.sh",
+                                               "sha256":  "febca4a76ab84051f11f34954513ce2dbd872ffc578a174fdd50f49011cee23c"
+                                           }
+                                       ]
+                       },
+                       {
+                           "id":  "c-a6e31231",
+                           "name":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                           "scripts":  [
+                                           {
+                                               "id":  "s-08a50867",
+                                               "name":  "4.14.117.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-08a50867.sh",
+                                               "sha256":  "7d61cd70d7afcdea91de70f09181e1144b726b8e19975ff64d980dc40185bf8a"
+                                           },
+                                           {
+                                               "id":  "s-87b92858",
+                                               "name":  "4.14.180.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-87b92858.sh",
+                                               "sha256":  "8bcfdf1aa430282321e8e205e24640497faea546cf618ce80695c61e59a4a07f"
+                                           },
+                                           {
+                                               "id":  "s-86155ad6",
+                                               "name":  "4.14.141.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-86155ad6.sh",
+                                               "sha256":  "a7efc69aac512290563163ef6005cc4de02a23f720ec544047ba685d539cfb1d"
+                                           },
+                                           {
+                                               "id":  "s-93d31712",
+                                               "name":  "4.14.186.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-93d31712.sh",
+                                               "sha256":  "7c7c37319d7940487af08b13334f3ce1694439674e596e8f38374d095b42a5ba"
+                                           },
+                                           {
+                                               "id":  "s-6e05eab4",
+                                               "name":  "4.14.186b.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-6e05eab4.sh",
+                                               "sha256":  "6dc0f79adddc0fa5cfdad4904323c47c661cdd56a637b0d9b2c43d94f34e67fc"
+                                           },
+                                           {
+                                               "id":  "s-63f02da4",
+                                               "name":  "4.14.186c.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-63f02da4.sh",
+                                               "sha256":  "ca3b3d710a8068c1c0dfd5d0c14e58fd29db5a27e9f22bef425073c48b56da23"
+                                           },
+                                           {
+                                               "id":  "s-13f737ab",
+                                               "name":  "4.19.113.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-13f737ab.sh",
+                                               "sha256":  "27bacec06c16a923b8aee19dd9837a8b92e0ed2da907636bc042215e8a9218d6"
+                                           },
+                                           {
+                                               "id":  "s-1886277a",
+                                               "name":  "4.19.157.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-1886277a.sh",
+                                               "sha256":  "dcf8d6adc6c624536cae806b21b815dfece583800f6b9ca93cdc9bddd4e756e9"
+                                           },
+                                           {
+                                               "id":  "s-dad82456",
+                                               "name":  "4.19.157b.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-dad82456.sh",
+                                               "sha256":  "d8d5bc08de95a446dcfbea732814f37866f9e2ea25cf833361e580262fcca92e"
+                                           },
+                                           {
+                                               "id":  "s-dbdbff93",
+                                               "name":  "4.19.157c.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-dbdbff93.sh",
+                                               "sha256":  "eb510eb39fcde650ef77b344c2f695fd298eca1d0ed91dc817e08e117a0c321f"
+                                           },
+                                           {
+                                               "id":  "s-6569a7f9",
+                                               "name":  "4.19.191.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-6569a7f9.sh",
+                                               "sha256":  "da6752d917841f934c09fc0122ae9c795c3a4162342875fef5b8a68c5aaec2c0"
+                                           },
+                                           {
+                                               "id":  "s-ede348d1",
+                                               "name":  "4.19.191b.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-ede348d1.sh",
+                                               "sha256":  "e9950dc8847412188e6d2a7f947fa6f7e3dfed8e1bcca32f6a8ee2086762b573"
+                                           },
+                                           {
+                                               "id":  "s-d1cfa004",
+                                               "name":  "4.19.81.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-d1cfa004.sh",
+                                               "sha256":  "cccc91745dd39dd59a1975ec292129fc4d08500538afeab116e3d819239e7543"
+                                           },
+                                           {
+                                               "id":  "s-65bbc3dd",
+                                               "name":  "4.19.191c.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-65bbc3dd.sh",
+                                               "sha256":  "d59cab036e0b4c57a534f79b9dd3178d497fdad915efc2a41d201f1ea2c7ff8c"
+                                           },
+                                           {
+                                               "id":  "s-0ad4f5da",
+                                               "name":  "5.10.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-0ad4f5da.sh",
+                                               "sha256":  "de5ff9f66a07097cde085f375d961b6123bef160db41e527fda8fb33f5e7d770"
+                                           },
+                                           {
+                                               "id":  "s-c32a0788",
+                                               "name":  "5.15.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-c32a0788.sh",
+                                               "sha256":  "24666ad2071423591de9319710502042ab1ff9f870d1f4c51290974451b81b55"
+                                           },
+                                           {
+                                               "id":  "s-9e935aba",
+                                               "name":  "5.4.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-9e935aba.sh",
+                                               "sha256":  "3561cef35871e8ae9aef5b13e742527de26f738425f6accebff8565cb841a29c"
+                                           },
+                                           {
+                                               "id":  "s-0cee6801",
+                                               "name":  "5.4b.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-0cee6801.sh",
+                                               "sha256":  "d42d2f42a51f92c0aa6714e4b6a6bd31a0b13534e7a60117689c76df704b6d3e"
+                                           },
+                                           {
+                                               "id":  "s-a36945c5",
+                                               "name":  "5.4c.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-a36945c5.sh",
+                                               "sha256":  "bb12ab448d94e078b6b6e3424c6a2309bbd5cf3c140d25aa28e3f75e0c8a94ee"
+                                           },
+                                           {
+                                               "id":  "s-a4697ecd",
+                                               "name":  "6.1.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-a4697ecd.sh",
+                                               "sha256":  "73933f8e55afc98e9456e8b7fdf04af6b3284d708b43285e23a1610c9c0ba529"
+                                           },
+                                           {
+                                               "id":  "s-3fd40fbf",
+                                               "name":  "6.12.23.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-3fd40fbf.sh",
+                                               "sha256":  "2b4b5e30e72c28c8ac146e663a11dbf36015bc69d51a90e23810a317f286fa24"
+                                           },
+                                           {
+                                               "id":  "s-f7b63eda",
+                                               "name":  "6.12.58.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-f7b63eda.sh",
+                                               "sha256":  "348cb2307ffa2fb7b0e2ad3841d7556f96244f0b893f9ec4f1583523b93f9019"
+                                           },
+                                           {
+                                               "id":  "s-7d3a38ac",
+                                               "name":  "6.6.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-7d3a38ac.sh",
+                                               "sha256":  "526d52d5a85f1f7558b0b97417be2e2ec7d967ddb992022bb372b1d0ee819cc1"
+                                           },
+                                           {
+                                               "id":  "s-43cf2110",
+                                               "name":  "执行我过频道验证.sh",
+                                               "description":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-QX11.4promax读写有缓+硬断+陀螺仪",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-a6e31231/s-43cf2110.sh",
+                                               "sha256":  "febca4a76ab84051f11f34954513ce2dbd872ffc578a174fdd50f49011cee23c"
+                                           }
+                                       ]
+                       },
+                       {
+                           "id":  "c-dac67635",
+                           "name":  "RT-hook无缓pte",
+                           "scripts":  [
+                                           {
+                                               "id":  "s-84e4e946",
+                                               "name":  "4.14.141.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-84e4e946.sh",
+                                               "sha256":  "98376bbfb9c7963078c56306328c590ee47c12c5bd0e1278930ab89055800e18"
+                                           },
+                                           {
+                                               "id":  "s-566e5759",
+                                               "name":  "4.14.117.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-566e5759.sh",
+                                               "sha256":  "d73e695a23c3a41aa31984f687f4669bba9d4860b0faa2618b40bc11d5a253d4"
+                                           },
+                                           {
+                                               "id":  "s-5f0c6453",
+                                               "name":  "4.14.180.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-5f0c6453.sh",
+                                               "sha256":  "3d438282151b090e8e1b9b98ad19b701e2627bc920f5b670d8a84cebb4d3c9f2"
+                                           },
+                                           {
+                                               "id":  "s-51866046",
+                                               "name":  "4.14.186.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-51866046.sh",
+                                               "sha256":  "7d0697e93404e5c7f0551275cb62a8b4235882ffb9cf68d90cbc8f8dce4be517"
+                                           },
+                                           {
+                                               "id":  "s-04f7b236",
+                                               "name":  "4.14.186b.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-04f7b236.sh",
+                                               "sha256":  "300b0568ebbb49ad3557a0dab4b3ba5cf72780bc88177668ea6ce4d576d8acae"
+                                           },
+                                           {
+                                               "id":  "s-1307b955",
+                                               "name":  "4.14.186c.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-1307b955.sh",
+                                               "sha256":  "7d8220c1e95c23e2f2a30ae5e797a1d576d2e004868e8266e50711d3a858cacd"
+                                           },
+                                           {
+                                               "id":  "s-ce4f72ca",
+                                               "name":  "4.19.113.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-ce4f72ca.sh",
+                                               "sha256":  "76d8f91c0131ea18a95f33b86d106ae5d4b27c42a6d3c4618d1f755fd9a1c75f"
+                                           },
+                                           {
+                                               "id":  "s-96a7f4c2",
+                                               "name":  "4.19.157.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-96a7f4c2.sh",
+                                               "sha256":  "c1c76490486e4547a7afdfc7015b940f62207d536c0d819e7f60a4bfa50866fb"
+                                           },
+                                           {
+                                               "id":  "s-ba3c31d0",
+                                               "name":  "4.19.157b.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-ba3c31d0.sh",
+                                               "sha256":  "6df3cdb4f25c1a0534d1c67bb1059e7b27fbb9d3733222ef0d3fc727930473b1"
+                                           },
+                                           {
+                                               "id":  "s-089a710c",
+                                               "name":  "4.19.157c.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-089a710c.sh",
+                                               "sha256":  "bcb988dbb68183edf6caf0ab4a806271e86f89f5e6dbbd7516f1bb02fdbc6e62"
+                                           },
+                                           {
+                                               "id":  "s-f2ec1930",
+                                               "name":  "4.19.191.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-f2ec1930.sh",
+                                               "sha256":  "cbfa30fa6ccaa0546cef43fbe81334612def993dc7d01fc96b2a516acd60abfb"
+                                           },
+                                           {
+                                               "id":  "s-e25fd54b",
+                                               "name":  "4.19.191b.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-e25fd54b.sh",
+                                               "sha256":  "8bdff0e5986b241308d4abc6fc7d8fb2c654229364f53d5f778829c6cf616a96"
+                                           },
+                                           {
+                                               "id":  "s-3f7ec44d",
+                                               "name":  "4.19.191c.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-3f7ec44d.sh",
+                                               "sha256":  "daabecd04841b01dfed6289f135f8dc023dfbe24542c0b7072552459b6e59147"
+                                           },
+                                           {
+                                               "id":  "s-d03a8f86",
+                                               "name":  "4.19.81.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-d03a8f86.sh",
+                                               "sha256":  "a5c26f01840ab5c4e3b7b36a315aaedf528546903ff36883d098159f70afb38d"
+                                           },
+                                           {
+                                               "id":  "s-aca23aa8",
+                                               "name":  "5.10.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-aca23aa8.sh",
+                                               "sha256":  "ca1bceb1808ae459f4d9c72ae6d3ccc123c47abad73bb0b94a3ee8dad77334df"
+                                           },
+                                           {
+                                               "id":  "s-8dd9c606",
+                                               "name":  "5.15.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-8dd9c606.sh",
+                                               "sha256":  "8379c8defa03ad3b63dbd5427e7869ca46af24e13057b358c89984d48cb15e9d"
+                                           },
+                                           {
+                                               "id":  "s-c50d66d1",
+                                               "name":  "5.4.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-c50d66d1.sh",
+                                               "sha256":  "a4d385b6dced9946e3cd2106bd7042a7eddfd7e1d110aa371134c5276056e275"
+                                           },
+                                           {
+                                               "id":  "s-1220ac66",
+                                               "name":  "5.4b.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-1220ac66.sh",
+                                               "sha256":  "cf59840527867b63912100ce86cb59026108161243ed8a2da4dad97075d9b0d5"
+                                           },
+                                           {
+                                               "id":  "s-b5585190",
+                                               "name":  "5.4c.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-b5585190.sh",
+                                               "sha256":  "63b6005dcfa30ffc5bdff1af6fcebcd08e291fec4db0c03aba404f8ac862bd6e"
+                                           },
+                                           {
+                                               "id":  "s-5109ca1a",
+                                               "name":  "6.1.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-5109ca1a.sh",
+                                               "sha256":  "07b06b486bef127f0da22e46b33684c57e03dc64fe2da4ecaed624c17e5ec9d6"
+                                           },
+                                           {
+                                               "id":  "s-1d352f57",
+                                               "name":  "6.12.23.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-1d352f57.sh",
+                                               "sha256":  "64e0866d191f64aab40fdbf906b6bb5aa3bb6a266f9adc6541e427991b592725"
+                                           },
+                                           {
+                                               "id":  "s-cea416d5",
+                                               "name":  "6.12.58.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-cea416d5.sh",
+                                               "sha256":  "54d089b2dbd99b451fa055f5d148f99fc3be7c60af747c1459222c0dc070ab96"
+                                           },
+                                           {
+                                               "id":  "s-47740290",
+                                               "name":  "6.6.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-47740290.sh",
+                                               "sha256":  "d31db9e7afe2158e0aa370aaaf3d5bd1c5fb0b413ed0e465cbd55d9deb0c3342"
+                                           },
+                                           {
+                                               "id":  "s-e6667ff8",
+                                               "name":  "执行我过频道验证.sh",
+                                               "description":  "RT-hook无缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook无缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-dac67635/s-e6667ff8.sh",
+                                               "sha256":  "febca4a76ab84051f11f34954513ce2dbd872ffc578a174fdd50f49011cee23c"
+                                           }
+                                       ]
+                       },
+                       {
+                           "id":  "c-d54df19c",
+                           "name":  "RT-hook有缓pte",
+                           "scripts":  [
+                                           {
+                                               "id":  "s-b545b86c",
+                                               "name":  "4.14.117.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-b545b86c.sh",
+                                               "sha256":  "1fbd2123e93f4bdca34963fcdd66e645049d11e2de8c061075b42b8df72474d0"
+                                           },
+                                           {
+                                               "id":  "s-b8994a7e",
+                                               "name":  "4.14.180.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-b8994a7e.sh",
+                                               "sha256":  "e49eba441602e1e6592f84db295db1ea9a0b618d97ea79b0610390c65c3701b1"
+                                           },
+                                           {
+                                               "id":  "s-37539fee",
+                                               "name":  "4.14.141.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-37539fee.sh",
+                                               "sha256":  "176ac7e5da26aeb4e052005608cdd63b4277ea7dfcde0b9f10c7862268c72afe"
+                                           },
+                                           {
+                                               "id":  "s-e3f2a5cb",
+                                               "name":  "4.14.186.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-e3f2a5cb.sh",
+                                               "sha256":  "5d145065509db15aea26259dba9c63aceabcfa0b43ad08bc49df00877d2cd222"
+                                           },
+                                           {
+                                               "id":  "s-9524fe63",
+                                               "name":  "4.14.186b.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-9524fe63.sh",
+                                               "sha256":  "71898c7b7fd5587078c3a04de9fd20b09b48d7129f0de4d7a6415dcc36541ddf"
+                                           },
+                                           {
+                                               "id":  "s-abaf7863",
+                                               "name":  "4.14.186c.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-abaf7863.sh",
+                                               "sha256":  "d6ffb07495fec33df900ced7c1daaf1ed2cc689d8842379522d59b39446bcefd"
+                                           },
+                                           {
+                                               "id":  "s-513ff96c",
+                                               "name":  "4.19.113.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-513ff96c.sh",
+                                               "sha256":  "a092729f50a1813c8b67d89ac88d5a9b76d9a92ec30f0f83ab8cb26bbd8e4bef"
+                                           },
+                                           {
+                                               "id":  "s-22b5f3ca",
+                                               "name":  "4.19.157.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-22b5f3ca.sh",
+                                               "sha256":  "4a36ea3fb9d762f78e68e284ddf39d278574d738a6665c5fdf5ae3613485fc0f"
+                                           },
+                                           {
+                                               "id":  "s-f220e1c8",
+                                               "name":  "4.19.157b.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-f220e1c8.sh",
+                                               "sha256":  "33f97fc454b9013ac340f5cfe9aa681829058a96cd43cc6939b86aa8e803a24c"
+                                           },
+                                           {
+                                               "id":  "s-6ed46652",
+                                               "name":  "4.19.157c.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-6ed46652.sh",
+                                               "sha256":  "9fa628c5bbab19b27de82d7c735583dba12e4d3653c607eaf6b9e7a48a37b4b4"
+                                           },
+                                           {
+                                               "id":  "s-5f9b57a1",
+                                               "name":  "4.19.191.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-5f9b57a1.sh",
+                                               "sha256":  "d162133858fcea1d1d5889860bd2d7f1c1753c41b09e016af12eea6d03ef0554"
+                                           },
+                                           {
+                                               "id":  "s-6d5a665b",
+                                               "name":  "4.19.191b.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-6d5a665b.sh",
+                                               "sha256":  "b30a03ee6ceb3f87d565c4b9003c67236bb4380ac0f0aa1031c3c7b84dbfc098"
+                                           },
+                                           {
+                                               "id":  "s-f0f715cd",
+                                               "name":  "4.19.191c.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-f0f715cd.sh",
+                                               "sha256":  "a5f277b6697bb354d7531ae68e0d5c881ce80808a48c210f150febcc0c69c3f0"
+                                           },
+                                           {
+                                               "id":  "s-f60874c1",
+                                               "name":  "4.19.81.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-f60874c1.sh",
+                                               "sha256":  "d4101bbfb44b6850df101fcfeef54574a97eabe64409a3013464ff426b4bc3c1"
+                                           },
+                                           {
+                                               "id":  "s-35d66717",
+                                               "name":  "5.10.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-35d66717.sh",
+                                               "sha256":  "756c6ca225f7861e82177ce12b4a624d3a6fcd0f23e1d801a26d603e86a9a0e6"
+                                           },
+                                           {
+                                               "id":  "s-ffcbc978",
+                                               "name":  "5.15.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-ffcbc978.sh",
+                                               "sha256":  "b15d838a024c01380c2f5660c8f903d4f885b640e6d59f32caeb8901f9ee2d60"
+                                           },
+                                           {
+                                               "id":  "s-ed3a5a3a",
+                                               "name":  "5.4.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-ed3a5a3a.sh",
+                                               "sha256":  "29865f3ef1e37f085ae94a75a5151336cb47d5a1718411829471f2fedb3426e2"
+                                           },
+                                           {
+                                               "id":  "s-ce819c3f",
+                                               "name":  "5.4b.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-ce819c3f.sh",
+                                               "sha256":  "0aadc89d1a37b1bc602ca4b06d738afd8ad8a538e73b5848d1d71dc43b66d0fc"
+                                           },
+                                           {
+                                               "id":  "s-57c1142f",
+                                               "name":  "5.4c.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-57c1142f.sh",
+                                               "sha256":  "80b6a44349f6b74583bcb580e5e153919f789c62b26b6128fbd9ac06f8da6c90"
+                                           },
+                                           {
+                                               "id":  "s-81579f4b",
+                                               "name":  "6.1.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-81579f4b.sh",
+                                               "sha256":  "3a75ddde9b4297a465f9b6c9211c9e6fc72ca38a66f6b93de00cdc5e577db2ad"
+                                           },
+                                           {
+                                               "id":  "s-3477392c",
+                                               "name":  "6.12.23.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-3477392c.sh",
+                                               "sha256":  "c5f27079ab43ad55aef93d735b9afd14c1e4e0981efc2ef645f803e1ad7e75a4"
+                                           },
+                                           {
+                                               "id":  "s-d52092a7",
+                                               "name":  "6.12.58.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-d52092a7.sh",
+                                               "sha256":  "42a45882a3e7dde3058980c22ad37d284463cd8c13fa0f54c6acb9e60c858514"
+                                           },
+                                           {
+                                               "id":  "s-10e99503",
+                                               "name":  "6.6.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-10e99503.sh",
+                                               "sha256":  "5830fc3b3e7fb77d185ec19c042125efb177f6954e2efa127aff1f0bc720318a"
+                                           },
+                                           {
+                                               "id":  "s-71c06094",
+                                               "name":  "执行我过频道验证.sh",
+                                               "description":  "RT-hook有缓pte",
+                                               "author":  "bkttt111",
+                                               "category":  "RT-hook有缓pte",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-d54df19c/s-71c06094.sh",
+                                               "sha256":  "febca4a76ab84051f11f34954513ce2dbd872ffc578a174fdd50f49011cee23c"
+                                           }
+                                       ]
+                       },
+                       {
+                           "id":  "c-3701d1a7",
+                           "name":  "RThook旧版",
+                           "scripts":  [
+                                           {
+                                               "id":  "s-d59d0422",
+                                               "name":  "4.14.141.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-d59d0422.sh",
+                                               "sha256":  "e27df73d08847438e62d05257fd9b4a869a7346a20b05b054fb0ded8194da681"
+                                           },
+                                           {
+                                               "id":  "s-c1cf5a6f",
+                                               "name":  "4.14.117.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-c1cf5a6f.sh",
+                                               "sha256":  "1a0e021c30275aabbf7874c77cfc5a3cff63e20ef1d883bf9f6a9af08f72cc21"
+                                           },
+                                           {
+                                               "id":  "s-71fc386f",
+                                               "name":  "4.14.180.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-71fc386f.sh",
+                                               "sha256":  "c2ddcaf8206d9687ca24b7d5d0051cbc111237235c593a6eca676e1f4042ee2e"
+                                           },
+                                           {
+                                               "id":  "s-c878b8d4",
+                                               "name":  "4.14.186.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-c878b8d4.sh",
+                                               "sha256":  "72533fd5a56947fb243a13d0da08da660ac80c9305ee1ee3fe0a33c2b2067a21"
+                                           },
+                                           {
+                                               "id":  "s-635b1848",
+                                               "name":  "4.14.186b.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-635b1848.sh",
+                                               "sha256":  "ee22403da7df73b1d279bd3da11497614bce13592e25e9712c56405eb5f3dc51"
+                                           },
+                                           {
+                                               "id":  "s-ceb73c09",
+                                               "name":  "4.14.186c.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-ceb73c09.sh",
+                                               "sha256":  "b5ab5cbc09db08822076ec210ef9498a7489338aa6c92b553e56a963bd4f77dc"
+                                           },
+                                           {
+                                               "id":  "s-40e47ca9",
+                                               "name":  "4.19.113.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-40e47ca9.sh",
+                                               "sha256":  "209512a709d76aa553887e654f66098c73272e9ebc0415e76279168daf4ee95f"
+                                           },
+                                           {
+                                               "id":  "s-6fb39dae",
+                                               "name":  "4.19.157b.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-6fb39dae.sh",
+                                               "sha256":  "7342712a9ce01bd7877bcff34c2275d81b96685d929e96777a02fc00aaa309fa"
+                                           },
+                                           {
+                                               "id":  "s-eac7663d",
+                                               "name":  "4.19.157.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-eac7663d.sh",
+                                               "sha256":  "a617b1326cb2d6f5d4ed7044ce1e51b285eefd1da33abb250ef67e6b8df0361c"
+                                           },
+                                           {
+                                               "id":  "s-b1bd8808",
+                                               "name":  "4.19.157c.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-b1bd8808.sh",
+                                               "sha256":  "17780ea7dbaa4537f048f1a0306293abbacb9be81b4625fdbbfeb18a97c12e6e"
+                                           },
+                                           {
+                                               "id":  "s-9769f5fc",
+                                               "name":  "4.19.191.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-9769f5fc.sh",
+                                               "sha256":  "636d2f762006902727e7ed6f3e889d6398925c18dbc01445d3b752b1c69d3d98"
+                                           },
+                                           {
+                                               "id":  "s-b99f38c8",
+                                               "name":  "4.19.191b.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-b99f38c8.sh",
+                                               "sha256":  "7f7c8415c3e234688a29c87080bc0040dd87e5b608ae85959df655c0d779cef7"
+                                           },
+                                           {
+                                               "id":  "s-483845bc",
+                                               "name":  "4.19.191c.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-483845bc.sh",
+                                               "sha256":  "82fbdbd7f2fa93b5f6b1f6ee11546a9de10197242eb24a0ace351ee0a9705f7a"
+                                           },
+                                           {
+                                               "id":  "s-b8a1dfe4",
+                                               "name":  "4.19.81.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-b8a1dfe4.sh",
+                                               "sha256":  "1ad2f5b3ddb88dbd7e70ae948691a03e1c4abd9bc1f9ce0b3b0dca42df308003"
+                                           },
+                                           {
+                                               "id":  "s-87f584a5",
+                                               "name":  "5.10.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-87f584a5.sh",
+                                               "sha256":  "d8b1d7d55477ad7594db9b35e582a78d4ef065acc8ed6bdede4889d11d181cd9"
+                                           },
+                                           {
+                                               "id":  "s-71a4789c",
+                                               "name":  "5.15.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-71a4789c.sh",
+                                               "sha256":  "def1f913119ffb59e2b6ba967570f00164eae7fb7f8525797d97f8ccdaeee18b"
+                                           },
+                                           {
+                                               "id":  "s-54b3af1b",
+                                               "name":  "5.4.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-54b3af1b.sh",
+                                               "sha256":  "3aaa79b06b332f1d995c3c7737c531110f07c1d83a30a0061cdde1c3b557d6a7"
+                                           },
+                                           {
+                                               "id":  "s-342845ae",
+                                               "name":  "5.4b.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-342845ae.sh",
+                                               "sha256":  "d12d8fbb8cbc6674046cf0cdfe596e43b80bc98e40fd61140d9a2d221e71ddcc"
+                                           },
+                                           {
+                                               "id":  "s-0bcebdbc",
+                                               "name":  "5.4c.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-0bcebdbc.sh",
+                                               "sha256":  "39c2eb474a431d5ba4304ea070679f6c9281c82c234c1431443f674f798e21ac"
+                                           },
+                                           {
+                                               "id":  "s-46857191",
+                                               "name":  "6.1.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-46857191.sh",
+                                               "sha256":  "3dda6f02530b713848d726b31467179726fe2e3314eda24739cbf7a55a9c1294"
+                                           },
+                                           {
+                                               "id":  "s-0b394aaa",
+                                               "name":  "6.12.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-0b394aaa.sh",
+                                               "sha256":  "e15f5163629d4710ce7f849776e49b38fadfb0bf2a25666e361fe7818f06fad9"
+                                           },
+                                           {
+                                               "id":  "s-f3ca84fb",
+                                               "name":  "6.6.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-f3ca84fb.sh",
+                                               "sha256":  "f54ea651ce2c76676481da2eb3eb483211f5454ed4235ce0f466e705954be0a8"
+                                           },
+                                           {
+                                               "id":  "s-3b59e322",
+                                               "name":  "执行我过频道验证.sh",
+                                               "description":  "RThook旧版",
+                                               "author":  "bkttt111",
+                                               "category":  "RThook旧版",
+                                               "versionCode":  1,
+                                               "versionName":  "1.0",
+                                               "url":  "https://raw.githubusercontent.com/bkttt111/ScriptLauncher-Release/main/drivers/c-3701d1a7/s-3b59e322.sh",
+                                               "sha256":  "febca4a76ab84051f11f34954513ce2dbd872ffc578a174fdd50f49011cee23c"
+                                           }
+                                       ]
+                       }
+                   ]
+}
