@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/bkttt111/ScriptLauncher-Release/releases/download/v1.1/ScriptLauncher-v1.1.apk",
-  "changelog": "新增应用内更新功能"
+  "versionCode": 3,
+  "versionName": "1.0.1",
+  "apkUrl": "https://github.com/bkttt111/ScriptLauncher-Release/releases/download/v1.0.1/ScriptLauncher-v1.0.1.apk",
+  "changelog": "修复云下载脚本二进制损坏与自解压脚本执行问题，优化液态玻璃交互"
 }
