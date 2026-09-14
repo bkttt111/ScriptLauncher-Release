@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/bkttt111/ScriptLauncher-Release/releases/download/v1.0.1/ScriptLauncher-v1.0.1.apk",
-  "changelog": "修复云下载脚本二进制损坏与自解压脚本执行问题，优化液态玻璃交互"
+  "versionCode": 4,
+  "versionName": "1.1.2",
+  "apkUrl": "https://github.com/bkttt111/ScriptLauncher-Release/releases/download/v1.1.2/ScriptLauncher-v1.1.2.apk",
+  "changelog": "新增脚本交互输入：脚本卡片启动按钮左侧新增交互输入按钮，可填写脚本需要的交互内容并保存规则，保存后一键启动自动发送；同步优化液态玻璃交互细节"
 }
