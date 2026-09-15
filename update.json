@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.2",
-  "apkUrl": "https://github.com/bkttt111/ScriptLauncher-Release/releases/download/v1.1.2/ScriptLauncher-v1.1.2.apk",
-  "changelog": "新增脚本交互输入：脚本卡片启动按钮左侧新增交互输入按钮，可填写脚本需要的交互内容并保存规则，保存后一键启动自动发送；同步优化液态玻璃交互细节"
+  "versionCode": 5,
+  "versionName": "1.1.3",
+  "apkUrl": "https://github.com/bkttt111/ScriptLauncher-Release/releases/download/v1.1.3/ScriptLauncher-v1.1.3.apk",
+  "changelog": "脚本交互输入升级：支持多条交互，空格分隔多个内容（如 1 2 y），启动后按顺序自动发送，每条等脚本有输出后再发下一条，弹窗内可实时预览顺序并保存规则，保存后一键启动自动完成全部交互"
 }
